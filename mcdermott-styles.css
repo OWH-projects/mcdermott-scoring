@@ -1,0 +1,22 @@
+.navbar-inverse .navbar-brand { color: #ccc; }
+img.logo { width: 75px; padding: 15px 0; }
+div.jumbotron { background: #006cbd; color: #fff; }
+div.jumbotron.image { margin-top: 2.3em; margin-bottom: 0; padding: 0; overflow: hidden; }
+div.jumbotron p.lead { color: #ccc; }
+
+h1 { font-weight: bold; letter-spacing: -1px; }
+h2 { margin-top: 2em; }
+
+div.points li.point { width: 10px; height: 10px; float: left; margin: 3px 3px 0 0; background: #eee; list-style: none; }
+div.points li.point.e { background: #ccc; }
+div.points li.point.active-game { background: #006cbd; }
+
+div#ppg div.game { height: 140px; float: left; }
+li.round-game { background: #006cbd; list-style: none; margin: 0 auto 0.5em auto; overflow: hidden; margin-right: 0.5em; font-weight: bold; color: #ccc; font-size: 0.8em; text-align: center; }
+div#ppg li.round-game:hover { cursor: pointer; color: #fff; background: #007cbd; }
+div#ppg li.round-game p { font-size: 1em; text-align: center; margin-top: 0.4em; }
+div.game-details { display: none; background: #fff; border: 1px solid #ccc; padding: 1em; position: absolute; margin-left: 75px; box-shadow: 1px 1px 2px #555; }
+div.game-details p { margin: 0 0 0.3em 0; }
+p.game-points { font-weight: bold; }
+p.game-date { font-size: 0.8em; color: #aaa; }
+td li.game-size { list-style: none; background: #006cbd; }
